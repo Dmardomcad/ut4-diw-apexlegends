@@ -1,0 +1,24 @@
+nav {
+  background-color: #000;
+  border-radius: 5px;
+}
+
+ul {
+  color: #faf8f2;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+}
+
+#mainbutton {
+  color: #faf8f2;
+  background-color: red;
+  border-style: none;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+form {
+  align-content: center;
+  align-items: flex-start;
+}
+
+/*# sourceMappingURL=index.d471138b.css.map */
