@@ -14,10 +14,30 @@ html {
 }
 
 header {
-  height: 8rem;
+  height: 9rem;
   min-width: 100rem;
-  background-color: #000;
+  background-color: #000000f6;
   border-radius: 5px;
+  padding: 10px;
+  display: inline-flex;
+}
+
+header a img {
+  width: auto;
+  height: auto;
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
+header nav {
+  justify-content: space-between;
+  align-items: center;
+  display: inline-flex;
+}
+
+header nav ul li {
+  font-size: large;
+  display: inline-flex;
 }
 
 nav ul {
@@ -28,7 +48,18 @@ nav ul {
 .banner {
   max-width: 100%;
   height: auto;
-  margin-top: 4rem;
+  width: auto;
+  align-self: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  display: flex;
+}
+
+main {
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 13rem;
+  display: flex;
 }
 
 form {
@@ -39,15 +70,31 @@ form {
 footer {
   min-height: 7rem;
   min-width: 100rem;
-  background-color: #000;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  background-color: #000000f6;
   background-image: url("icon-abajo 1.283e965b.png");
   background-position: 50%;
   background-repeat: no-repeat;
   border-radius: 5px;
+  align-content: center;
+  display: flex;
 }
 
-nav ul li {
-  display: inline;
+footer nav ul li {
+  display: inline-flex;
+}
+
+footer nav ul li img {
+  width: auto;
+  height: auto;
+}
+
+a {
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px;
+  transition: background .2s linear;
 }
 
 /*# sourceMappingURL=index.aa177889.css.map */
