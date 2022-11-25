@@ -8,32 +8,48 @@
     <link rel="stylesheet" href="./assets/sass/styles.scss">
 </head>
 <body>
-    <header class="header">
-        <a href="index.html"><img src="/src/assets/img/Apex-Legends-Emblem.png" class="logo"></a>
-        <nav id="navegacion">
-            <ul>
-                <li>Noticias</li>
-                <li>Mapas</li>
-                <li>Personajes</li>
-                <li>Modos</li>
-                <li><a href="registro.html">Registrarse</a></li>
-            </ul>
-        </nav>
+    <header class="encabezado">
+        <a href="index.html"><img src="/src/assets/img/apex-legends-logo-2.png" class="logo"></a>
+         <nav id="navegacion">
+             <ul>
+                 <li>Noticias</li>
+                 <li>Mapas</li>
+                 <li><a href="listadopersonajes.html">Personajes</a></li>
+                 <li>Modos</li>
+                 <li><a href="login.html"><button class="boton">Registrate</button></a></li>
+             </ul>
+         <input class="searchbar">
+         </nav>
+ </header>
 
+ <main>
+    <h3>Iniciar sesión</h3>
+    <form id="formulario">
+        <fieldset>
+            <label>Correo electrónico:</label>
+            <input type="text">
+            <label>Nombre de usuario:</label>
+            <input type="text">
+            <label>Contraseña:</label>
+            <input type="password">
+            <label>Iniciar sesión con:</label>
+            <button id="mainbutton">Iniciar sesión</button>
+        </fieldset>
+    </form>
+</main>
 
-
-        <footer id="footer">
-            <nav>
-                <ul>
-                    <li><img src="/src/assets/img/instagram.png"></li>
-                    <li><img src="/src/assets/img/youtube.png"></li>
-                    <li><img src="/src/assets/img/facebook.png"></li>
-                    <li><img src="/src/assets/img/twitter.png"></li>
-                    <li>Nosotros</li>
-                    <li>Contacto</li>
-                    <li>FAQ</li>
-                </ul>
-            </nav>
-        </footer>
+ <footer id="footer">
+    <nav>
+        <ul>
+            <li><img src="/src/assets/img/instagram.png"></li>
+            <li><img src="/src/assets/img/youtube.png"></li>
+            <li><img src="/src/assets/img/facebook.png"></li>
+            <li><img src="/src/assets/img/twitter.png"></li>
+            <li>Nosotros</li>
+            <li><a href="contacto.html">Contacto</a></li>
+            <li>FAQ</li>
+        </ul>
+    </nav>
+</footer>
 </body>
 </html>

@@ -42,7 +42,6 @@ header a img {
     max-width: 10rem;
     max-height: 10rem;
 
-
 }
 
 header nav {
@@ -81,10 +80,8 @@ main {
 }
 
 .banner {
-    max-width: 100%;
     height: auto;
     width: auto;
-    display: flex;
     width: 50%;
     margin: 40px;
     justify-content: center;
@@ -92,7 +89,7 @@ main {
 
 .articulos {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 30%;
     flex-wrap: wrap;
 
@@ -100,11 +97,9 @@ main {
 }
 article {
     width: 30%;
+
 }
 
-.article img {
-    size: 3vw;
-}
 
 
 /* Estilo del footer */

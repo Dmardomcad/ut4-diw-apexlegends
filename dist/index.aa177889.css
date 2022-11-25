@@ -69,28 +69,22 @@ main {
 }
 
 .banner {
-  max-width: 100%;
   height: auto;
   width: auto;
   width: 50%;
   justify-content: center;
   margin: 40px;
-  display: flex;
 }
 
 .articulos {
   width: 30%;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   display: flex;
 }
 
 article {
   width: 30%;
-}
-
-.article img {
-  size: 3vw;
 }
 
 footer {
