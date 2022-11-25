@@ -24,7 +24,7 @@
 107C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133128821627759442 0
 83C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\weak-lru-cache\README.md133128821625308734 0
 79C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\posthtml-render\dist133128821624698735 1
-50C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist133138473526540312 1
+50C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist133138482200388512 1
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\workers\src\cpuCount.js133128821626098167 0
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\AX.js133128821629106137 0
 76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\dotenv-expand\lib133128821624538752 1
@@ -67,7 +67,7 @@
 101C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133128821631258682 0
 99C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-js\lib\loadNative.js133128821625018726 0
 70C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\buffer-from133128821623548754 1
-76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.c98023dd.js.map133138467486827511 0
+76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.c98023dd.js.map133138475402302953 0
 103C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\viewport-units.js133128821638607614 0
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\MG.js133128821636253036 0
 111C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs133128821625028721 0
@@ -103,7 +103,7 @@
 81C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\to-regex-range\LICENSE133130616641394953 0
 82C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\node-releases\README.md133128821624688725 0
 60C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\login.html133138434072880542 0
-81C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\retrato-personaje.fd61e998.png133138467486917524 0
+81C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\retrato-personaje.fd61e998.png133138475402222951 0
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@jridgewell\trace-mapping\LICENSE133128821621635481 0
 65C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\base-x133128821623748770 1
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\VC.js133128821638607614 0
@@ -123,7 +123,7 @@
 85C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\msgpackr-extract\README.md133128821625038735 0
 93C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\lib\RequestTracker.js133128821631258682 0
 101C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\lib\requests\DevDepRequest.js133128821629619558 0
-66C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\userprofile.html133138421695098439 0
+66C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\userprofile.html133138474425143880 0
 114C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node133128821629960268 0
 107C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133128821627265218 0
 60C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\assets\img133138437720235513 1
@@ -146,7 +146,7 @@
 110C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\native-filesystem-api.js133128821636608573 0
 88C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\update-browserslist-db\cli.js133128821623248749 0
 107C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133128821630946163 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\assets\sass\styles.scss133138473547443389 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\src\assets\sass\styles.scss133138482425556866 0
 122C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133128821630461817 1
 75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\json5\LICENSE.md133128821626278185 0
 64C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@lmdb133130616644635336 1
@@ -291,7 +291,7 @@
 65C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@lezer133128821610385389 1
 83C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\postcss-value-parser\lib133128821625408728 1
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree\lib\syntax\pseudo\dir.js133128821628949810 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj4.8bb51b9d.png133138467486717518 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj4.8bb51b9d.png133138475401713005 0
 96C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\postcss-value-parser\lib\stringify.js133128821623838768 0
 113C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133128821626348164 0
 84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\terser\lib\mozilla-ast.js133128821628949810 0
@@ -378,7 +378,7 @@
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree\lib\syntax\node\Block.js133128821625608526 0
 67C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree133128821631444161 1
 131C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133128821628760631 0
-70C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\banner.9a47d4a5.png133138467486737522 0
+70C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\banner.9a47d4a5.png133138475401862947 0
 99C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\utility-types\dist\aliases-and-guards.js133128821622887231 0
 67C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-what133128821627008187 1
 63C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\csso133128821629444641 1
@@ -635,7 +635,7 @@
 69C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\source-map133128821626728177 1
 112C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133128821628448090 0
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\entities\lib\encode-trie.d.ts.map133128821626888198 0
-80C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.1f189f77.js133138467486737522 0
+80C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.1f189f77.js133138475402032982 0
 77C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\source-map-support133128821625058730 1
 93C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\svgo\plugins\convertShapeToPath.js133128821627265218 0
 94C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\alt-an.js133128821626788185 0
@@ -819,7 +819,7 @@
 76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\sass\package.json133130616643454214 0
 117C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133128821627088170 1
 78C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\yaml\browser\map.js133128821626148177 0
-84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.1f189f77.js.map133138467486877509 0
+84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.1f189f77.js.map133138475402302953 0
 77C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree\lib\utils133128821630461817 1
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\BO.js133128821630116555 0
 84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\yaml\browser\parse-cst.js133128821627265218 0
@@ -1039,7 +1039,7 @@
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\JE.js133128821635256594 0
 75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\type-fest\source133128821628604394 1
 97C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\test\PublicBundle.test.js133128821631102411 0
-71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.ed1c4618.js133138467486617506 0
+71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.ed1c4618.js133138475402062955 0
 97C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\dom-serializer\lib\esm\foreignNames.js133128821623038769 0
 82C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\mdn-data\css\types.json133128821627603186 0
 107C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\picture-in-picture.js133128821637063398 0
@@ -1149,7 +1149,7 @@
 98C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\utils\test\prettifyTime.test.js133128821629619558 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\commander\typings\index.d.ts133128821625608526 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\posthtml-parser\package.json133128821624268749 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj5.8dfc85fe.png133138467486807557 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj5.8dfc85fe.png133138475402032982 0
 80C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\utils\LICENSE133128821623188746 0
 80C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\csso\dist\csso.min.js133128821627759442 0
 85C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\tslib\modules\package.json133128821624768732 0
@@ -1532,7 +1532,7 @@
 85C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\dist\unpacker133128821637280306 1
 118C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133128821627265218 0
 121C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133128821628604394 1
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj1.823c21b9.png133138467486727534 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj1.823c21b9.png133138475402132954 0
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\GR.js133128821634433220 0
 128C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133128821628949810 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\sass\types\logger\index.d.ts133130616644015351 0
@@ -1740,7 +1740,7 @@
 98C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\ordered-binary\.idea\ordered-binary.iml133128821623468758 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\msgpackr-extract\binding.gyp133128821623358774 0
 101C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\style-scoped.js133128821637940480 0
-76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\icon-abajo 1.283e965b.png133138467486647515 0
+76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\icon-abajo 1.283e965b.png133138475401682975 0
 95C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\webusb.js133128821638943464 0
 85C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\nullthrows\nullthrows.d.ts133128821623288746 0
 88C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\nullthrows\nullthrows.js.flow133128821624198737 0
@@ -2380,7 +2380,7 @@
 82C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\domutils\lib\index.d.ts133128821627108927 0
 104C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\hash\parcel-hash.linux-arm64-gnu.node133128821627956318 0
 90C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions\PW.js133128821637280306 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\instagram.5d9e842b.png133138467486117543 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\instagram.5d9e842b.png133138475402082942 0
 83C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\domutils\lib\legacy.d.ts133128821627265218 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\domutils\lib\legacy.d.ts.map133128821626248186 0
 110C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133128821626978182 0
@@ -2706,7 +2706,7 @@
 91C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree\lib\convertor\create.js133128821627265218 0
 106C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133128821632456244 0
 88C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\cosmiconfig\dist\loaders.d.ts133128821628448090 0
-72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.355e69e6.js.map133138467486807557 0
+72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.355e69e6.js.map133138475402302953 0
 84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\regions133128821639054233 1
 113C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133128821630116555 1
 98C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\css-tree\lib\common\OffsetToLocation.js133128821630774359 0
@@ -3379,7 +3379,7 @@
 109C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133128821627108927 0
 149C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133128821632267652 0
 96C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\svg-img.js133128821638060491 0
-82C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\ut4-diw-apexlegends.59712999.js133138467486737522 0
+82C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\ut4-diw-apexlegends.59712999.js133138475402032982 0
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\svg.js133128821638080478 0
 92C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\caniuse-lite\data\features\sxg.js133128821638090479 0
 106C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133128821630774359 0
@@ -3578,7 +3578,7 @@
 104C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@swc\helpers\lib\_async_generator_delegate.js133128821624618734 0
 126C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json133128821628949810 0
 105C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\node-resolver-core\test\fixture\bar.js133128821623948773 0
-72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.c98023dd.js133138467486617506 0
+72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.c98023dd.js133138475402042983 0
 95C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\src\utils.js133128821628268868 0
 91C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@swc\helpers\lib\_await_value.js133128821625608526 0
 114C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133128821626068201 0
@@ -3706,7 +3706,7 @@
 88C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\src\Signal.hh133128821627759442 0
 89C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\src\Watcher.hh133128821627759442 0
 87C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\src\watchman133128821627944209 1
-64C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.html133138467486527523 0
+64C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.html133138475402102954 0
 86C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\src\windows133128821627956318 1
 104C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133128821627956318 0
 93C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\core\test\fixtures\context133128821632111381 1
@@ -3825,7 +3825,7 @@
 97C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-html\src\inline.js133128821625138748 0
 95C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-css\package.json133128821624098756 0
 86C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-css\src133128821623398772 1
-72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\facebook.6114df0a.png133138467486757515 0
+72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\facebook.6114df0a.png133138475401922956 0
 104C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-css\lib\CSSTransformer.js133128821622968745 0
 88C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-babel\lib133128821627008187 1
 97C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\transformer-babel\package.json133128821627265218 0
@@ -3858,7 +3858,7 @@
 103C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\parcel_sourcemap_node\src133128821630461817 1
 133C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133128821628112623 0
 113C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133128821624018742 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.aa177889.css.map133138473526530330 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.aa177889.css.map133138482200378476 0
 137C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133128821629775791 0
 135C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133128821630461817 0
 96C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\source-map\dist\types.js.flow133128821623548754 0
@@ -3977,7 +3977,7 @@
 84C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\markdown-ansi\lib133128821622185475 1
 110C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\has-flag\package.json133128821621855472 0
 106C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\src\NodeResolverBase.js133128821627759442 0
-61C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.html133138461201328632 0
+61C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.html133138475402112942 0
 95C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\src\types.js133128821628112623 0
 113C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133128821628268868 0
 91C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@parcel\optimizer-terser\LICENSE133128821621815471 0
@@ -4325,7 +4325,7 @@
 106C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\has-flag\index.js133128821622265488 0
 105C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\has-flag\license133128821623318766 0
 114C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133128821624878759 0
-68C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.355e69e6.js133138467486617506 0
+68C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.355e69e6.js133138475401692976 0
 108C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\color-name\index.js133128821624218739 0
 107C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\color-name\LICENSE133128821623778768 0
 109C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\@babel\highlight\node_modules\color-name\README.md133128821623308761 0
@@ -4377,26 +4377,26 @@
 68C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\.bin\svgo133128821639470776 0
 72C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\.bin\svgo.cmd133128821639480976 0
 74C:\Users\usuariom\Desktop\ut4-diw-apexlegends\node_modules\.bin\terser.cmd133128821639500757 0
-83C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\apex-legends-logo-2.40f0f4ac.png133138467486527523 0
-74C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\background.0c55243b.png133138467486387586 0
-71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.7ee82020.js133138467486737522 0
-75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.7ee82020.js.map133138467486877509 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj2.4aab3858.png133138467486817526 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj3.9e41b605.png133138467486527523 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj6.1b2a9055.png133138467486527523 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj7.ae0febf1.png133138467486717518 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj8.2b7d4491.png133138467486817526 0
-76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article1.d3378b56.png133138467486827511 0
-76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article2.89bf0dd8.png133138467486777511 0
-76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article3.eb731b4a.png133138467486897523 0
-69C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.aa177889.css133138473526510346 0
+83C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\apex-legends-logo-2.40f0f4ac.png133138475402162963 0
+74C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\background.0c55243b.png133138475402092940 0
+71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.7ee82020.js133138475402032982 0
+75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\contacto.7ee82020.js.map133138475402302953 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj2.4aab3858.png133138475402022970 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj3.9e41b605.png133138475402132954 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj6.1b2a9055.png133138475402132954 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj7.ae0febf1.png133138475401713005 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\image-pj8.2b7d4491.png133138475402022970 0
+76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article1.d3378b56.png133138475402212965 0
+76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article2.89bf0dd8.png133138475401862947 0
+76C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\img-article3.eb731b4a.png133138475402152986 0
+69C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.aa177889.css133138482200348541 0
 69C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.d471138b.css133130615145948874 0
 73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\index.d471138b.css.map133130615146108690 0
-73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.html133138467486527523 0
-61C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.html133138467486617506 0
-65C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.html133138467486597506 0
-75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.ed1c4618.js.map133138467486827511 0
-64C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.html133138467486667518 0
-71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\twitter.a11dcc2c.png133138467486377602 0
-86C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\ut4-diw-apexlegends.59712999.js.map133138467486897523 0
-71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\youtube.f57c81a1.png133138467486647515 0
+73C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\listadopersonajes.html133138475402102954 0
+61C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\login.html133138475402192952 0
+65C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\personaje.html133138475402102954 0
+75C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.ed1c4618.js.map133138475402302953 0
+64C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\registro.html133138475402152986 0
+71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\twitter.a11dcc2c.png133138475402092940 0
+86C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\ut4-diw-apexlegends.59712999.js.map133138475402302953 0
+71C:\Users\usuariom\Desktop\ut4-diw-apexlegends\dist\youtube.f57c81a1.png133138475401692976 0

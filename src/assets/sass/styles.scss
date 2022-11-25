@@ -60,7 +60,11 @@ nav ul {
     font-size: large;
 
 }
+a {
+    list-style: none;
+    text-decoration: none;
 
+}
 p {
     font-family: 'Roboto',sans-serif;
 
@@ -90,15 +94,14 @@ main {
 .articulos {
     display: flex;
     justify-content: space-around;
-    width: 30%;
     flex-wrap: wrap;
-
     
 }
 article {
     width: 30%;
 
 }
+
 
 
 
