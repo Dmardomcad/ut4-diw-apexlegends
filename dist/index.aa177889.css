@@ -31,26 +31,31 @@ header {
   display: inline-flex;
 }
 
-header a img {
+.logo {
   width: auto;
   height: auto;
   max-width: 10rem;
   max-height: 10rem;
+  padding: 5px;
 }
 
-header nav {
+.navegador {
+  justify-content: space-between;
   align-items: center;
-  display: inline-flex;
-}
-
-header nav ul li {
   display: inline-flex;
 }
 
 nav ul {
   color: #faf8f2;
+  justify-content: center;
+  align-items: center;
   font-family: Roboto, sans-serif;
   font-size: large;
+  display: inline-flex;
+}
+
+header nav ul li {
+  display: inline-flex;
 }
 
 a {
@@ -70,25 +75,40 @@ h2 {
 }
 
 main {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
   padding: 32px;
+  display: flex;
 }
 
 .banner {
-  height: auto;
-  width: auto;
-  width: 50%;
+  width: 90%;
   justify-content: center;
   margin: 40px;
+  display: flex;
 }
 
 .articulos {
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  margin-bottom: 80px;
+  display: flex;
+}
+
+.articulos h2 {
+  justify-content: center;
+  padding: 8px;
   display: flex;
 }
 
 article {
   width: 30%;
+}
+
+article img {
+  width: 100%;
 }
 
 footer {
@@ -112,10 +132,14 @@ footer nav ul li img {
   height: auto;
 }
 
-.boton {
+.btn-registro {
+  color: #fff;
+  text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
   background-color: #d04747;
   border-style: hidden;
   border-radius: 10px;
+  padding: 10px;
+  font-size: large;
 }
 
 .boton a {

@@ -12,7 +12,7 @@ html {
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
-    background-color: beige;
+    background-color: #f5f5dc;
     
 }
 
@@ -36,30 +36,40 @@ header {
     width: 100%;
 }
 
-header a img {
+.logo {
     width: auto;
     height: auto;
     max-width: 10rem;
     max-height: 10rem;
+    padding: 5px;
 
 }
 
-header nav {
+.navegador {
     display: inline-flex;
     align-items: center;
+    justify-content: space-between ;
 
+    
+
+}
+
+nav ul {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #FAF8F2;
+    font-family:'Roboto',sans-serif;
+    font-size: large;
+    
 }
 
 header nav ul li{
     display: inline-flex;
-}
-
-nav ul {
-    color: #FAF8F2;
-    font-family:'Roboto',sans-serif;
-    font-size: large;
 
 }
+
+
 a {
     list-style: none;
     text-decoration: none;
@@ -80,28 +90,45 @@ h2 {
 
 main {
     padding: 32px;
-    //display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+    
 }
 
 .banner {
-    height: auto;
-    width: auto;
-    width: 50%;
+    width: 90%;
+    display: flex;
     margin: 40px;
     justify-content: center;
+
 }
 
 .articulos {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+    margin-bottom: 80px;
     
 }
-article {
-    width: 30%;
+
+.articulos h2{
+    display: flex;
+    justify-content:center;
+    padding: 8px;
 
 }
 
+
+article {
+    width: 30%;
+       
+}
+article img {
+    width: 100%
+}
 
 
 
@@ -133,17 +160,23 @@ footer nav ul li img {
 
 /* Otros */
 
-.boton {
+.btn-registro {
     border-radius: 10px;
     border-style: hidden;
     background-color: #d04747;
-    
+    font-size: large;
+    color: white;
+    padding: 10px;
+    text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+
     
 }
 
 .boton a {
     font-size: medium;
     font-family: 'Roboto Slab';
+
 }
 
 a {
