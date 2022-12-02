@@ -10,22 +10,25 @@
 <body>
     <header class="encabezado">
         <a href="index.html"><img src="/src/assets/img/apex-legends-logo-2.png" class="logo"></a>
-         <nav id="navegacion">
+         <nav class="navegador">
              <ul>
                  <li>Noticias</li>
                  <li>Mapas</li>
                  <li><a href="listadopersonajes.html">Personajes</a></li>
                  <li>Modos</li>
-                 <li><a href="registro.html">Registrate</a></li>
              </ul>
-         <input class="searchbar">
          </nav>
+         <div class="profile-search">
+             <ul>
+                 <li><a href="registro.html"><button class="btn-registro">Registrate</button></a></li>
+                 <li><input class="searchbar"></li>
+             </ul>
+         </div>
  </header>
 
  <main>
     <h3>REGISTRO</h3>
-    <form id="formulario">
-        <fieldset>
+    <form class="formulario-registro">
             <label>Correo electrónico:</label>
             <input type="text">
             <label>Nombre de usuario:</label>
@@ -33,26 +36,27 @@
             <label>Contraseña:</label>
             <input type="password">
             <label>Registrarse con:</label>
+            <div class="redes-registro">
             <a href="https://twitter.com"><img src="/src/assets/img/twitter.png"></a>
             <img src="/src/assets/img/facebook.png">
             <img src="/src/assets/img/instagram.png">
-            <button id="mainbutton">Registrar</button>
-        </fieldset>
+            </div>
+            <button class="btn-registro">Registrar</button>
     </form>
  </main>
 
-    <footer id="footer">
-        <nav>
-            <ul>
-                <li><img src="/src/assets/img/instagram.png"></li>
-                <li><img src="/src/assets/img/youtube.png"></li>
-                <li><img src="/src/assets/img/facebook.png"></li>
-                <li><img src="/src/assets/img/twitter.png"></li>
-                <li>Nosotros</li>
-                <li>Contacto</li>
-                <li>FAQ</li>
-            </ul>
-        </nav>
-    </footer>
+ <footer class="footer">
+    <nav class="navegador">
+        <ul>
+            <li><img src="/src/assets/img/instagram.png"></li>
+            <li><img src="/src/assets/img/youtube.png"></li>
+            <li><img src="/src/assets/img/facebook.png"></li>
+            <li><img src="/src/assets/img/twitter.png"></li>
+            <li>Nosotros</li>
+            <li><a href="contacto.html">Contacto</a></li>
+            <li>FAQ</li>
+        </ul>
+    </nav>
+</footer>
 </body>
 </html>

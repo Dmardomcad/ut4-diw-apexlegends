@@ -4,13 +4,17 @@
   padding: 0;
 }
 
-html {
+main {
   min-height: 100%;
   background-color: beige;
   background-image: url("background.0c55243b.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
+}
+
+html {
+  min-height: 100%;
 }
 
 a {
@@ -33,6 +37,13 @@ h2 {
   font-family: Roboto Slab, serif;
   font-size: 36px;
   font-weight: lighter;
+}
+
+h3 {
+  color: #d04747;
+  font-family: Roboto Slab, serif;
+  font-size: 24px;
+  font-weight: light;
 }
 
 @font-face {
@@ -63,20 +74,15 @@ header {
 
 .navegador {
   justify-content: space-between;
-  align-items: center;
   display: inline-flex;
 }
 
-nav ul {
+.navegador ul {
   color: #faf8f2;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   font-family: Roboto, sans-serif;
   font-size: large;
-  display: inline-flex;
-}
-
-header nav ul li {
   display: inline-flex;
 }
 
@@ -90,6 +96,12 @@ footer {
   border-radius: 5px;
   align-content: center;
   display: flex;
+}
+
+.navegador ul {
+  color: #faf8f2;
+  font-family: Roboto, sans-serif;
+  font-size: large;
 }
 
 footer nav ul li {
@@ -111,11 +123,15 @@ footer nav ul li img {
   font-size: large;
 }
 
+.btn-registro:hover {
+  background-color: #ad0808;
+  transition-duration: .5s;
+}
+
 main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 40px;
   padding: 32px;
   display: flex;
 }
@@ -135,16 +151,33 @@ main {
 }
 
 .articulos h2 {
+  text-align: center;
   padding: 8px;
-  display: flex;
 }
 
-article {
+.articulos article {
   width: 30%;
 }
 
-article img {
+.articulos img {
   width: 100%;
+}
+
+.personajes article, .personajes img {
+  size: 20%;
+}
+
+.formulario-registro {
+  width: 50%;
+  height: 60%;
+  background: #000000f6;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 4rem;
+}
+
+.formulario-registro label {
+  color: #faf8f2;
 }
 
 /*# sourceMappingURL=index.ad85b7e3.css.map */
