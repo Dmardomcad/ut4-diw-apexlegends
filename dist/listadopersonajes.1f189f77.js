@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"9WiZA":[function(require,module,exports) {
+})({"5dnJo":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"3HsqL":[function(require,module,exports) {
 
-},{}]},["9WiZA","3HsqL"], "3HsqL", "parcelRequireb1c1")
+},{}]},["5dnJo","3HsqL"], "3HsqL", "parcelRequireb1c1")
 
 //# sourceMappingURL=listadopersonajes.1f189f77.js.map
