@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"5CHvl":[function(require,module,exports) {
+})({"3ZYZq":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"ajz4G":[function(require,module,exports) {
 
-},{}]},["5CHvl","ajz4G"], "ajz4G", "parcelRequireb1c1")
+},{}]},["3ZYZq","ajz4G"], "ajz4G", "parcelRequireb1c1")
 
 //# sourceMappingURL=registro.ed1c4618.js.map

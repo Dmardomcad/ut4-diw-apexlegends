@@ -1,3 +1,4 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400&family=Roboto:wght@100;300;400&display=swap";
 * {
   box-sizing: border-box;
   margin: 0;
@@ -30,6 +31,8 @@ ul {
 
 p {
   font-family: Roboto, sans-serif;
+  font-weight: light;
+  font-size: 20px;
 }
 
 h2 {
@@ -39,19 +42,18 @@ h2 {
   font-weight: lighter;
 }
 
-h3 {
+.listado-personajes {
   color: #d04747;
   font-family: Roboto Slab, serif;
-  font-size: 24px;
-  font-weight: light;
+  font-size: 36px;
+  font-weight: 400;
 }
 
-@font-face {
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
-}
-
-@font-face {
-  src: url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400&display=swap");
+h4 {
+  color: #000000f6;
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  font-weight: lighter;
 }
 
 .encabezado {
@@ -116,6 +118,19 @@ footer nav ul li img {
   height: auto;
 }
 
+.formulario-registro {
+  width: 50%;
+  height: 60%;
+  background: #000000f6;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 4rem;
+}
+
+.formulario-registro label {
+  color: #faf8f2;
+}
+
 .btn-registro {
   color: #fff;
   text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px, 0 0 1px #000, 0 0 1px #000;
@@ -127,7 +142,7 @@ footer nav ul li img {
 }
 
 .btn-registro:hover {
-  background-color: #ad0808;
+  background-color: #ba0000;
   transition-duration: .5s;
 }
 
@@ -162,17 +177,24 @@ main {
   width: 100%;
 }
 
-.formulario-registro {
-  width: 50%;
-  height: 60%;
-  background: #000000f6;
-  border-style: solid;
-  border-radius: 20px;
-  padding: 4rem;
+.listado-personajes {
+  text-align: center;
+  padding: 20px 20px 50px;
 }
 
-.formulario-registro label {
-  color: #faf8f2;
+.personajes {
+  text-align: center;
+  max-width: 1024px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  display: flex;
+}
+
+.personajes article {
+  width: 25%;
+  size: 100%;
+  padding: 20px;
 }
 
 /*# sourceMappingURL=index.ad85b7e3.css.map */
