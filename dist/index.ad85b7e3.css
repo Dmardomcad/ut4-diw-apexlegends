@@ -58,11 +58,12 @@ h4 {
 
 .encabezado {
   height: 160px;
-  min-width: 100rem;
   width: 100%;
   background-color: #000000f6;
   border-radius: 5px;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
   display: flex;
 }
 
@@ -71,51 +72,43 @@ h4 {
   height: auto;
   max-width: 10rem;
   max-height: 10rem;
-  padding: 5px;
-}
-
-.navegador {
-  justify-content: space-between;
-  display: flex;
 }
 
 .navegador ul {
   color: #faf8f2;
-  align-items: center;
   font-family: Roboto, sans-serif;
-  font-size: large;
+  font-size: 24px;
   display: flex;
 }
 
 .navegador ul li {
-  padding: 20px 10px;
+  padding: 45px;
 }
 
-footer {
+.footer-page {
   min-height: 7rem;
+  max-height: 160px;
   width: 100%;
   background-color: #000000f6;
   background-image: url("icon-abajo 1.283e965b.png");
   background-position: 50%;
   background-repeat: no-repeat;
   border-radius: 5px;
-  align-content: center;
+}
+
+.navegador-footer .footer-rss {
+  color: #faf8f2;
+  flex-wrap: wrap;
+  place-content: center flex-start;
+  font-family: Roboto, sans-serif;
+  font-size: large;
   display: flex;
 }
 
-.navegador ul {
-  color: #faf8f2;
-  font-family: Roboto, sans-serif;
-  font-size: large;
-}
-
-footer nav ul li {
-  display: inline-flex;
-}
-
-footer nav ul li img {
-  width: auto;
-  height: auto;
+.navegador-footer .footer-otros {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  display: flex;
 }
 
 .formulario-registro {
@@ -193,7 +186,6 @@ main {
 
 .personajes article {
   width: 25%;
-  size: 100%;
   padding: 20px;
 }
 
