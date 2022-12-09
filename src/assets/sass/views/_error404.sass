@@ -1,0 +1,45 @@
+.error404
+    display: flex
+    justify-content: center
+    align-items: center
+    flex-direction: column
+    a
+        color: $accent-color
+    h1
+        padding: 20px
+        font-size: 70px
+.cargando
+    display: flex
+    justify-content: center
+    align-items: center
+    flex-direction: row
+    padding: 20px
+.carga
+    margin: 20px
+    height: 50px
+    width: 50px
+    size: $box-size
+    background-color: $accent-color
+    border-radius: 10px
+    animation-name: giro, pulsacion
+    animation-duration: 4000ms
+    animation-iteration-count: infinite
+    animation-timing-function: linear
+
+@keyframes giro
+    0%
+        transform: rotate(0deg) scale(0.7)
+    100%
+        transform: rotate(360deg) scale(1)
+
+/* @keyframes pulsacion
+ 0%
+ transform: scale(0.8)
+ 25%
+ transform: scale(1)
+ 50%
+ transform: scale(0.8)
+ 75%
+ transform: scale(1)
+ 100%
+ transform: scale(0.8) */

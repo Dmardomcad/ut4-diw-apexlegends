@@ -18,6 +18,10 @@ html {
   min-height: 100%;
 }
 
+body {
+  height: 100vh;
+}
+
 a {
   color: #fff;
   text-decoration: none;
@@ -168,6 +172,53 @@ main {
 
 .articulos img {
   width: 100%;
+}
+
+.error404 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.error404 a {
+  color: #d04747;
+}
+
+.error404 h1 {
+  padding: 20px;
+  font-size: 70px;
+}
+
+.cargando {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+}
+
+.carga {
+  height: 50px;
+  width: 50px;
+  size: 100px;
+  background-color: #d04747;
+  border-radius: 10px;
+  margin: 20px;
+  animation-name: giro, pulsacion;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes giro {
+  0% {
+    transform: rotate(0)scale(.7);
+  }
+
+  100% {
+    transform: rotate(360deg)scale(1);
+  }
 }
 
 .listado-personajes {
