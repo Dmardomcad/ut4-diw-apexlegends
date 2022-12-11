@@ -7,7 +7,7 @@
 
 main {
   min-height: 100%;
-  background-color: beige;
+  background-color: #faf8f2;
   background-image: url("background.0c55243b.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -37,6 +37,13 @@ p {
   font-family: Roboto, sans-serif;
   font-weight: light;
   font-size: 20px;
+}
+
+h3 {
+  color: #d04747;
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  font-weight: 200;
 }
 
 h2 {
@@ -86,7 +93,7 @@ h4 {
 }
 
 .navegador ul li {
-  padding: 45px;
+  padding: 100px;
 }
 
 .footer-page {
@@ -94,31 +101,43 @@ h4 {
   max-height: 160px;
   width: 100%;
   background-color: #000000f6;
-  background-image: url("icon-abajo 1.283e965b.png");
-  background-position: 50%;
-  background-repeat: no-repeat;
   border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  display: flex;
 }
 
-.navegador-footer .footer-rss {
-  color: #faf8f2;
-  flex-wrap: wrap;
-  place-content: center flex-start;
+.footer-rss {
+  flex-direction: row;
+  justify-content: space-between;
+  display: flex;
+}
+
+.footer-rss img {
+  height: auto;
+  max-width: 100%;
+  padding: 30px;
+}
+
+.logo-footer {
+  height: auto;
+  max-width: 100%;
+}
+
+.footer-otros {
+  flex-direction: row;
+  justify-content: space-between;
   font-family: Roboto, sans-serif;
-  font-size: large;
   display: flex;
 }
 
-.navegador-footer .footer-otros {
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  display: flex;
+.footer-otros a {
+  padding: 30px;
 }
 
 .formulario-registro {
-  width: 50%;
-  height: 60%;
-  background: #000000f6;
+  background-color: #000000f6;
   border-style: solid;
   border-radius: 20px;
   padding: 4rem;
@@ -143,21 +162,18 @@ h4 {
   transition-duration: .5s;
 }
 
-main {
-  padding: 32px;
-}
-
 .banner {
   width: 90%;
-  justify-content: center;
-  margin: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
   display: flex;
 }
 
 .articulos {
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-bottom: 80px;
+  padding-bottom: 4em;
   display: flex;
 }
 
@@ -172,6 +188,24 @@ main {
 
 .articulos img {
   width: 100%;
+}
+
+@media (max-width: 1500px) {
+  .articulos h2 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1265px) {
+  .articulos article {
+    width: 75%;
+  }
+}
+
+@media (max-width: 1030px) {
+  .articulos article {
+    width: 75%;
+  }
 }
 
 .error404 {
@@ -238,6 +272,60 @@ main {
 .personajes article {
   width: 25%;
   padding: 20px;
+}
+
+@media (max-width: 920px) {
+  .personajes article {
+    width: 50%;
+  }
+}
+
+@media (max-width: 450px) {
+  .personajes article {
+    width: 100%;
+  }
+}
+
+.info-personaje {
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10vh;
+  display: flex;
+}
+
+.historia-personaje {
+  width: 30%;
+  flex-direction: column;
+  display: flex;
+}
+
+.historia-personaje h3, .historia-personaje h4, .historia-personaje p {
+  padding: 10px;
+}
+
+.video-personaje {
+  width: 45%;
+  height: 45em;
+  margin: 5rem auto;
+  display: flex;
+}
+
+.other-personajes {
+  flex-direction: column;
+  padding: 2em;
+  display: flex;
+}
+
+.other-personajes ul {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 2em;
+  display: flex;
+}
+
+.other-personajes h4 {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*# sourceMappingURL=index.ad85b7e3.css.map */

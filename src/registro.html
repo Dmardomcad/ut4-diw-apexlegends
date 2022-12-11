@@ -25,32 +25,40 @@
  <main>
     <h3>REGISTRO</h3>
     <form class="formulario-registro">
-            <label>Correo electrónico:</label>
-            <input type="text">
-            <label>Nombre de usuario:</label>
-            <input type="text">
-            <label>Contraseña:</label>
-            <input type="password">
+            <label for="email">Correo electrónico:</label>
+            <input type="email" placeholder="email...">
+            <label for="name">Nombre de usuario:</label>
+            <input type="text" placeholder="Username...">
+            <label for="password">Contraseña:</label>
+            <input type="password" placeholder="Password...">
             <label>Registrarse con:</label>
             <div class="redes-registro">
-            <a href="https://twitter.com"><img src="/src/assets/img/twitter.png"></a>
-            <img src="/src/assets/img/facebook.png">
-            <img src="/src/assets/img/instagram.png">
+            <ul>
+                <li><a href="https://twitter.com"><img src="/src/assets/img/twitter.png"></a></li>
+                <li><a href="#"><img src="/src/assets/img/facebook.png"></a></li>
+                <li><a href="#"><img src="/src/assets/img/instagram.png"></a></li>
+            </ul>
             </div>
-            <button class="btn-registro">Registrar</button>
+            <button class="btn-registro" type="submit">Registrar</button>
     </form>
  </main>
 
- <footer class="footer">
-    <nav class="navegador">
-        <ul>
-            <li><img src="/src/assets/img/instagram.png"></li>
-            <li><img src="/src/assets/img/youtube.png"></li>
-            <li><img src="/src/assets/img/facebook.png"></li>
-            <li><img src="/src/assets/img/twitter.png"></li>
-            <li>Nosotros</li>
+ <footer class="footer-page">
+    <nav class="navegador-rss">
+        <ul class="footer-rss">
+            <li><a href="#"><img src="/src/assets/img/instagram.png"></a></li>
+            <li><a href="#"><img src="/src/assets/img/youtube.png"></a></li>
+            <li><a href="#"><img src="/src/assets/img/facebook.png"></a></li>
+            <li><a href="#"><img src="/src/assets/img/twitter.png"></a></li>
+        </ul>
+    </nav>
+        <img class="logo-footer" src="./assets/img/icon-abajo 1.png">
+    <nav class="navegador-contacto">  
+        <ul class="footer-otros">    
+            <li><a href="#">Nosotros</a></li>
             <li><a href="contacto.html">Contacto</a></li>
-            <li>FAQ</li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">Dark</a></li>               
         </ul>
     </nav>
 </footer>
