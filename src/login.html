@@ -4,41 +4,59 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Iniciar sesion</title>
     <link rel="stylesheet" href="./assets/sass/main.sass">
+    <title>Registro</title>
 </head>
 <body>
     <header class="encabezado">
         <a href="index.html"><img src="/src/assets/img/apex-legends-logo-2.png" class="logo">
             <nav class="navegador">
-                <ul>
-                    <li>Noticias</li>
-                    <li><a href="#">Mapas</a></li>
-                    <li><a href="listado.html">Personajes</a></li>
-                    <li><a href="#">Modos</a></li>
-                    <li><input class="searchbar"></li>  
+                <ul class="nav-menu">
+                    <li class="nav-item"><a href="error404.html" class="nav-link">Noticias</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Mapas</a></li>
+                    <li class="nav-item"><a href="listado.html" class="nav-link">Personajes</a></li>
+                    <li class="nav-item"><a href="userprofile.html" class="nav-link">Perfil</a></li>
+                    <li class="nav-item"><a href="registro.html" class="nav-link"><button class="btn-registro">Registrate</button></a></li>  
                 </ul>
             </nav>
-            <a href="registro.html"><button class="btn-registro">Registrate</button></a>
+            <input class="searchbar" placeholder="Buscar...">
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
     </header>
 
  <main>
-    <h3>Iniciar sesión</h3>
-    <form id="formulario">
-        <fieldset>
-            <label>Correo electrónico:</label>
-            <input type="text">
-            <label>Nombre de usuario:</label>
-            <input type="text">
-            <label>Contraseña:</label>
-            <input type="password">
-            <label>Iniciar sesión con:</label>
-            <button id="mainbutton">Iniciar sesión</button>
-        </fieldset>
-    </form>
-</main>
+    <div class="titulo-reg">
+        <h3>INICIAR SESIÓN</h3>
+    </div>
+    <section class="registro">
+        <form class="formulario-registro">
+                <div class="info-email">
+                    <label for="email">Correo electrónico:</label>
+                    <input type="email" placeholder="email...">
+                </div>
+                <div class="info-name">
+                    <label for="name">Nombre de usuario:</label>
+                    <input type="text" placeholder="Username...">
+                </div>
+                <div class="info-pwd">
+                    <label for="password">Contraseña:</label>
+                    <input type="password" placeholder="Password...">
+                    <label> Logearse con: </label>
+                </div>
+            <ul class="redes-registro">
+                <li><a href="https://twitter.com"><img src="/src/assets/img/twitter.png"></a></li>
+                <li><a href="#"><img src="/src/assets/img/facebook.png"></a></li>
+                <li><a href="#"><img src="/src/assets/img/instagram.png"></a></li>
+            </ul>
+            <button class="btn-registro" type="submit">Conectar</button>
+        </form>
+    </section>
+ </main>
 
-<footer class="footer-page">
+ <footer class="footer-page">
     <nav class="navegador-rss">
         <ul class="footer-rss">
             <li><a href="#"><img src="/src/assets/img/instagram.png"></a></li>

@@ -14,7 +14,7 @@
     justify-content: center
     align-items: center
     flex-direction: column
-    width: 750px // Cambiar a % en media query
+    width: 100% // Cambiar a % en media query
     height: 50vh
     border-radius: 10px
     border-style: solid
@@ -34,8 +34,12 @@
         margin-bottom: 2rem
     .redes-registro
         display: flex
-        padding: 20px
         justify-content: center
         img
             width: auto
             height: auto
+            margin-left: 20px
+@media(max-width: 800px)
+    .formulario-registro
+        width: 100%
+        min-width: 370px

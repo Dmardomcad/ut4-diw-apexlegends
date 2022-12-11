@@ -8,7 +8,6 @@
     align-items: center
     justify-content: space-between
     padding: 30px 30px
-    //flex-wrap: wrap
 
 .footer-rss
     display: flex
@@ -18,6 +17,8 @@
         padding: 30px
         height: auto
         max-width: 100%
+        min-width: 20px
+        min-height: 20px
 
 .logo-footer
     height: auto
@@ -30,21 +31,15 @@
     a
         padding: 30px
 
-
-/*     background-image: url(/src/assets/img/icon-abajo\ 1.png) 
-    background-repeat: no-repeat 
-    background-position: 50%  */
- 
-/* .navegador-footer
+@media(max-width: 900px)
+    .footer-otros
+        display: flex
+        flex-direction: row
+        align-self: center
+        ul
+            padding: 3vw
+    .logo-footer
+        display: none
     .footer-rss
-        display: flex
-        justify-content: flex-start
-        align-content: center
-        color: $text-color
-        font-family:'Roboto',sans-serif 
-        font-size: large
-        flex-wrap: wrap
-
-    .navegador-contacto
-        display: flex
-        justify-content: flex-end */
+        ul
+            padding: 3vw

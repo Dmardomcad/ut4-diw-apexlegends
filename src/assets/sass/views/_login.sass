@@ -1,0 +1,45 @@
+.titulo-reg
+    text-align: center
+    padding: 3rem
+
+.registro
+    display: flex
+    justify-content: center
+    flex-direction: column
+    height: 50vh
+    align-items: center
+
+.formulario-registro
+    display: flex
+    justify-content: center
+    align-items: center
+    flex-direction: column
+    width: 100% // Cambiar a % en media query
+    height: 50vh
+    border-radius: 10px
+    border-style: solid
+    background-color: $primary-color
+    div
+        display: flex
+        flex-direction: column
+        label
+            color: $text-color
+            text-align: end
+        input
+            height: 40px
+            width: 25em
+    .btn-registro
+        padding: 15px
+        max-width: 100px
+        margin-bottom: 2rem
+    .redes-registro
+        display: flex
+        justify-content: center
+        img
+            width: auto
+            height: auto
+            margin-left: 20px
+@media(max-width: 800px)
+    .formulario-registro
+        width: 100%
+        min-width: 370px
