@@ -36,20 +36,21 @@ ul {
 p {
   font-family: Roboto, sans-serif;
   font-weight: light;
-  font-size: 20px;
+  font-size: 14px;
+  line-height: 24px;
 }
 
 h3 {
   color: #d04747;
-  font-family: Roboto, sans-serif;
-  font-size: 30px;
-  font-weight: 200;
+  font-family: Roboto Slab, serif;
+  font-size: 40px;
+  font-weight: 400;
 }
 
 h2 {
   color: #d04747;
   font-family: Roboto Slab, serif;
-  font-size: 36px;
+  font-size: 44px;
   font-weight: 300;
 }
 
@@ -61,10 +62,37 @@ h2 {
 }
 
 h4 {
+  color: #d04747;
+  font-family: Roboto, sans-serif;
+  font-size: 36px;
+  font-weight: 200;
+}
+
+.personaje h4 {
   color: #000000f6;
   font-family: Roboto, sans-serif;
-  font-size: 30px;
-  font-weight: lighter;
+  font-size: 36px;
+  font-weight: 200;
+}
+
+label {
+  color: #faf8f2;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+h1 {
+  font-family: Roboto Slab, serif;
+  font-size: 46px;
+  font-weight: 400;
+}
+
+.formulario-contacto label {
+  color: #000000f6;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
 }
 
 .encabezado {
@@ -93,7 +121,7 @@ h4 {
 }
 
 .navegador ul li {
-  padding: 100px;
+  padding: 5vw;
 }
 
 .footer-page {
@@ -134,17 +162,6 @@ h4 {
 
 .footer-otros a {
   padding: 30px;
-}
-
-.formulario-registro {
-  background-color: #000000f6;
-  border-style: solid;
-  border-radius: 20px;
-  padding: 4rem;
-}
-
-.formulario-registro label {
-  color: #faf8f2;
 }
 
 .btn-registro {
@@ -208,6 +225,21 @@ h4 {
   }
 }
 
+.contacto {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.formulario-contacto {
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+}
+
 .error404 {
   flex-direction: column;
   justify-content: center;
@@ -257,7 +289,7 @@ h4 {
 
 .listado-personajes {
   text-align: center;
-  padding: 20px 20px 50px;
+  padding: 3rem 3rem 50px;
 }
 
 .personajes {
@@ -284,6 +316,97 @@ h4 {
   .personajes article {
     width: 100%;
   }
+}
+
+.titulo-reg {
+  text-align: center;
+  padding: 3rem;
+}
+
+.registro {
+  height: 50vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.formulario-registro {
+  width: 750px;
+  height: 50vh;
+  background-color: #000000f6;
+  border-style: solid;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.formulario-registro div {
+  flex-direction: column;
+  display: flex;
+}
+
+.formulario-registro div label {
+  color: #faf8f2;
+  text-align: end;
+}
+
+.formulario-registro div input {
+  height: 40px;
+  width: 25em;
+}
+
+.formulario-registro .btn-registro {
+  max-width: 100px;
+  margin-bottom: 2rem;
+  padding: 15px;
+}
+
+.formulario-registro .redes-registro {
+  justify-content: center;
+  padding: 20px;
+  display: flex;
+}
+
+.formulario-registro .redes-registro img {
+  width: auto;
+  height: auto;
+}
+
+.perfil-usuario {
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.perfil-usuario .datos-usuario {
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 100px auto 0;
+  display: flex;
+}
+
+.perfil-usuario .datos-usuario ul {
+  align-self: center;
+}
+
+.perfil-usuario .datos-usuario ul li {
+  justify-content: flex-start;
+  display: flex;
+}
+
+.perfil-usuario img {
+  width: 35%;
+  height: auto;
+  padding: 20px;
+}
+
+.perfil-usuario h2 {
+  padding: 30px;
 }
 
 .info-personaje {
